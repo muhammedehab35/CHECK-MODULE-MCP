@@ -9,7 +9,7 @@
 
 ## 🎥 Demo
 
-https://github.com/user-attachments/assets/fa1d8f1a-82db-4fa8-a30b-c82ce7d4f01d
+https://github.com/user-attachments/assets/aec8d362-4ac3-477f-84db-fc304cd7e927
 
 > Watch CHECK-MODULE in action: fetching documentation, searching internal docs, and managing custom documentation with Claude Desktop.
 
