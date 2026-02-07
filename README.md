@@ -26,8 +26,8 @@ https://github.com/user-attachments/assets/aec8d362-4ac3-477f-84db-fc304cd7e927
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/CHECK-FUNC-MCP.git
-cd CHECK-FUNC-MCP
+git clone https://github.com/muhammedehab35/CHECK-MODULE-MCP.git
+cd CHECK-MODULE-MCP
 
 # Install dependencies
 npm install
@@ -49,7 +49,7 @@ Add to your Claude Desktop config file (`claude_desktop_config.json`):
     "CHECK-MODULE": {
       "command": "node",
       "args": [
-        "/absolute/path/to/CHECK-FUNC-MCP/dist/index.js"
+        "/absolute/path/to/CHECK-MODULE-MCP/dist/index.js"
       ]
     }
   }
@@ -116,7 +116,7 @@ CHECK-MODULE can automatically fetch documentation for:
 ## 🏗️ Project Structure
 
 ```
-CHECK-FUNC-MCP/
+CHECK-MODULE-MCP/
 ├── src/
 │   ├── index.ts          # Main MCP server
 │   ├── docStore.ts       # Documentation storage
@@ -249,7 +249,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Support
 
-- **Issues:** [GitHub Issues](https://github.com/yourusername/CHECK-FUNC-MCP/issues)
+- **Issues:** [GitHub Issues](https://github.com/muhammedehab35/CHECK-MODULE-MCP/issues)
 - **Documentation:** [MCP Documentation](https://modelcontextprotocol.io)
 
 ---
