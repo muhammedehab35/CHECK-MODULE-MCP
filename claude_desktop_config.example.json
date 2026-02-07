@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "CHECK-MODULE": {
+      "command": "node",
+      "args": [
+        "C:\\Users\\MO EHAB\\Desktop\\CHECK-FUNC-MCP\\dist\\index.js"
+      ]
+    }
+  }
+}

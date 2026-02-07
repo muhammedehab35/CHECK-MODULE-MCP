@@ -1,0 +1,28 @@
+{
+  "name": "check-module-mcp-server",
+  "version": "1.0.0",
+  "description": "CHECK-MODULE: MCP server for managing custom internal documentation",
+  "type": "module",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc --watch",
+    "start": "node dist/index.js",
+    "dev": "tsc && node dist/index.js"
+  },
+  "keywords": [
+    "mcp",
+    "documentation",
+    "model-context-protocol"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.26.0",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^20.19.32",
+    "typescript": "^5.9.3"
+  }
+}
